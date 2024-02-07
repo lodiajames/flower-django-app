@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+.navbar {
+  background-color: #e3f2fd;
+}
+
+.footer {
+  text-align: center;
+  font-size: 16px;
+  height: 60px;
+  line-height: 60px;
+}
+.form-account {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+}
